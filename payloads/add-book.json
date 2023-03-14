@@ -1,0 +1,8 @@
+{
+    "id": 1,
+    "title": "Livro Post",
+    "description": "Testando POST",
+    "pageCount": 0,
+    "excerpt": "Aqui temos uma descricao longa para testar o POST de uma API aleatoria",
+    "publishDate": "2022-07-14T20:09:41.166Z"
+}
